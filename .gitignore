@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Miniconda
+conda_xmask/
+
+# xmask
+xmask_from_github/
+
+# Remove output files
+output/*.json
+output/.gitkeep 
