@@ -19,6 +19,7 @@ Are these just markers used later to know where to place the bb elements?
 * Is it the file core_co_lhcb1 that (undirectly ?) contains the orbit bumps observed in x and y (c.f. figure below) after configuring knobs and tuning?
 
 ![](img/bumps.png)
+
 *x position of the beam before (orange) and after (red) configuring knobs and tuning*
 
 <br/> 
@@ -37,10 +38,12 @@ Are these just markers used later to know where to place the bb elements?
 * Why, in the final collider, is the closed orbit reference so similar to the beam orbit? Cf. figure below, in which the two orbits are undistinguishable:
   
 ![](img/co-dezoom.png)
+
 *x position of the beam before (orange) and after (red) configuring knobs and tuning*
 
 Conversely, when zooming in, where do the small discrepancies come from? Why is it the reference orbit that is oscillating around the actual beam orbit, and not the opposite? Cf. figure below, which is zoom in the left part of the previous figure:
 ![](img/co-zoom.png)
+
 *x position of the beam before (orange) and after (red) configuring knobs and tuning, zoomed in for s<1000*
 
 <br/> 
@@ -49,4 +52,5 @@ Conversely, when zooming in, where do the small discrepancies come from? Why is 
 * Why is dispersion worse after configuring knobs and tuning, and therefore setting ```on_disp``` to 1? Cf. figure below:
 
 ![](img/disp.png)
+
 *Horizontal dispersion before (pink) and after (purple) configuring knobs and tuning*
