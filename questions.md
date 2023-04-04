@@ -42,7 +42,7 @@ Are these just markers used later to know where to place the bb elements?
 
 *x position of the beam before (orange) and after (red) configuring knobs and tuning*
 
-Conversely, when zooming in, where do the small discrepancies come from? Why is it the reference orbit that is oscillating around the actual beam orbit, and not the opposite? Cf. figure below, which is zoom in the left part of the previous figure:
+Conversely, when zooming in, where do the small discrepancies come from? Why is it the reference orbit that is oscillating around the actual beam orbit, and not the opposite? Cf. figure below, which is zoomed in the left part of the previous figure:
 ![](img/co-zoom.png)
 
 *x position of the beam before (orange) and after (red) configuring knobs and tuning, zoomed in for s<1000*
@@ -58,7 +58,7 @@ Conversely, when zooming in, where do the small discrepancies come from? Why is 
 
 <br/>
 
-* Are the footprints that we obtain for flat optics expected? Cf. figure below:
+* Are the footprints that we obtain for flat optics expected? They seem very different, and less smooth than the ones from round optics. Cf. figure below:
 
 ![](img/footprint.png)
 
