@@ -51,10 +51,8 @@ config_knobs_and_tuning:
     on_sep2: 0.138 # [mm]
     on_x5: 250 # [urad]
     on_sep5: 0 # [mm]
-    on_x8h: 0.0
-    on_x8v: 170
-    on_sep8h: 0
-    on_sep8v: 0
+    on_x8: -250 # [urad]
+    on_sep8: -0.043 # [mm]
     on_a1: 0 # [urad]
     on_o1: 0 # [mm]
     on_a2: 0 # [urad]

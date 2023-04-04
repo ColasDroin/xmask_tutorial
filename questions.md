@@ -41,7 +41,8 @@ Are these just markers used later to know where to place the bb elements?
   * lagrf400.b1, lagrf400.b2 have been added
   * All luminosity parameters have been removed
   * z_crab_twiss has been replaced by sigma_z?
-  * knob_names are different
+  * knob_names are different. How do I handle the knobs that don't work anymore, e.g. 'on_x8v'?
+More generally, how can I ensure the machine I build with xmask is the same as the one built with lhcmask?
 
 ## More general questions
 
