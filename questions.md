@@ -35,7 +35,7 @@ Are these just markers used later to know where to place the bb elements?
 
 ## More general questions
 
-* Why, in the final collider, is the closed orbit reference so similar to the beam orbit? Cf. figure below, in which the two orbits are undistinguishable:
+* Why, in the final collider, is the closed orbit reference nearly undistinguishable from the beam orbit? Cf. figure below:
   
 ![](img/co-dezoom.png)
 
@@ -54,3 +54,11 @@ Conversely, when zooming in, where do the small discrepancies come from? Why is 
 ![](img/disp.png)
 
 *Horizontal dispersion before (pink) and after (purple) configuring knobs and tuning*
+
+<br/>
+
+* Are the footprints that we obtain for flat optics expected? Cf. figure below:
+
+![](img/footprint.png)
+
+*Footprints of the beam for flat optics*
