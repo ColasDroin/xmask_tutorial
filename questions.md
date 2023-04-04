@@ -28,10 +28,11 @@ Are these just markers used later to know where to place the bb elements?
 
 <br/> 
 
-* How can I scan the following paramerers e.g. for a DA study. Which one can be scanned from an existing collider, and which one requires a new one to be built?
+* How can I scan the following paramerers e.g. for a DA study?
   * tune/chromaticity -> Should I just use ```xm.machine_tuning()```? Do the beam-beam interactions have to be reconfigured?
   * crossing angle/octupole polarity -> Should I just change the knob through e.g. ```collider.vars[on_x5] = x``` or ```collider.vars[i_oct_b1] = x```? Do I have to subsequently rematch tune and chromaticity, and reconfigure the beam-beam interactions?
   * bunch number
+  More generally, which parameters can be scanned from an existing collider, and which ones require a new collider to be built?
 
 ## More general questions
 
