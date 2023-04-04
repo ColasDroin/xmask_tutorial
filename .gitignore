@@ -8,8 +8,8 @@ conda_xmask/
 
 # xmask
 xmask_github/
+xmask_github
 
 # Remove output files
 output/*.json
 output/.gitkeep 
-xmask_github
