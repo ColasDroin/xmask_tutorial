@@ -43,7 +43,7 @@ Are these just markers used later to know where to place the bb elements?
   * z_crab_twiss has been replaced by sigma_z?
   * knob_names are different. How do I handle the knobs that don't work anymore, e.g. 'on_x8v'?
 
-More generally, how can I ensure the machine I build with xmask is the same as the one built with lhcmask?
+More generally, how can I ensure the machine I build with xmask is the same as the one built with lhcmask? For now, I don't manage to obtain the same tune footprint depending if I use lhcmask or xmask (but the config files can't be identical, because of the changes above).
 
 ## More general questions
 
