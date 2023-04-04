@@ -34,6 +34,15 @@ Are these just markers used later to know where to place the bb elements?
   * bunch number
   More generally, which parameters can be scanned from an existing collider, and which ones require a new collider to be built?
 
+<br/> 
+
+* Why does the config file contain different parameters than the config file from lhcmask?
+  * beam_sigt, beam_sige have been removed
+  * lagrf400.b1, lagrf400.b2 have been added
+  * All luminosity parameters have been removed
+  * z_crab_twiss has been replaced by sigma_z?
+  * knob_names are different
+
 ## More general questions
 
 * Why, in the final collider, is the closed orbit reference nearly undistinguishable from the beam orbit? Cf. figure below:
